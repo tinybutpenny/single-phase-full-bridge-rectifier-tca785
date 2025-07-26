@@ -94,11 +94,14 @@ Các xung này:
 
 ## 📂 Files Included
 
-- `schematic.schdoc` – Altium schematic
-- `pcb.pcbdoc` – Altium PCB layout
-- `PDF/` – Rendered schematic & layout (for preview)
-- `README.md` – This file
-
+| File Name | Description |
+|-----------|-------------|
+| `Rectifier-SinglePhase-FullControlled-TCA785.SchDoc` | Schematic diagram (mạch nguyên lý) |
+| `Rectifier-SinglePhase-FullControlled-TCA785.PcbDoc` | PCB layout (mạch in) |
+| `Rectifier-SinglePhase-FullControlled-TCA785.BomDoc` | Bill of Materials (danh sách linh kiện) |
+| `Rectifier-SinglePhase-FullControlled-TCA785.PrjPcb` | Altium Designer project file |
+| `Rectifier-SinglePhase-FullControlled-TCA785.pdf` | Exported schematic for quick view |
+| `*.workspace / *.Structure` | Metadata, IDE-related files (optional) |
 ---
 
 ## ✨ Author Info
